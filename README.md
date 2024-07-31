@@ -13,9 +13,6 @@ Features
 Installation
 
     Clone the Repository
-
-    bash
-
 git clone https://github.com/ProDash0/libminus
 cd libminus
 
