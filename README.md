@@ -92,4 +92,4 @@ cli_options_cleanup();
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Credits
-- [Fetoyu Dev](https://github.com/FetoyuDev): Made a better markdown at the guide
+- [ProDash0](https://github.com/ProDash0): the original owner of this project
