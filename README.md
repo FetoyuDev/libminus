@@ -15,7 +15,7 @@ Features
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/ProDash0/libminus.git && cd libminus
+git clone https://github.com/FetoyuDev/libminus.git && cd libminus
 ```
 
 # Compile the Library and Example
