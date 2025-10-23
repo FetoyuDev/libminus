@@ -82,10 +82,19 @@ cli_options_cleanup();
 # Contributing
 ## Contributions are welcome! Please follow these steps to contribute:
 - Fork the Repository
-- Create a New Branch: git checkout -b feature/your-feature
+- Create a New Branch:
+  ```bash
+  git checkout -b feature/your-feature
+  ```
 - Make Your Changes
-- Commit Your Changes: git commit -am 'Add new feature'
-- Push to the Branch: git push origin feature/your-feature
+- Commit Your Changes:
+  ```bash
+  git commit -am 'Add new feature'
+  ```
+- Push to the Branch:
+  ```bash
+  git push origin feature/your-feature
+  ```
 - Create a Pull Request
 
 # License
